@@ -1,0 +1,6 @@
+nltk
+textblob
+pillow
+pandas
+scikit-learn
+numpy

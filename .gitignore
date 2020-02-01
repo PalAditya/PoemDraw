@@ -1,0 +1,10 @@
+*.tgz
+AttnGAN/*
+iGAN/*
+StoryGAN/*
+data/birds
+data/coco
+drivers/
+**/*.zip
+.DS_store
+**/__py__*/**

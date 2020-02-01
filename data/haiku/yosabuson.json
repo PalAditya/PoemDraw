@@ -1,0 +1,34 @@
+{
+	"1": {
+		"sentence": "A summer river being crossed how pleasing with sandals in my hands!",
+		"features": ["river"]
+	},
+	"2": {
+		"sentence": "Light of the moon Moves west, flowers' shadows Creep eastward.",
+		"features": ["moon", "flower"]
+	},
+	"3": {
+		"sentence": "In the moonlight, The color and scent of the wisteria Seems far away.",
+		"features": ["moonlight", "wisteria"]
+	},
+	"4": {
+		"sentence": "The fading of spring. The feeling of holding Of the biwa",
+		"features": ["spring"]
+	},
+	"5": {
+		"sentence": "The canola flowers. The moon in the east. The sun in the west",
+		"features": ["flowers","moon","sun"]
+	},
+	"6": {
+		"sentence": "The afternoon shower. Catch the grass or leaf The villege spallow.",
+		"features": ["afternoon shower", "grass", "leaf"]
+	},
+	"7": {
+		"sentence": "The peony flower scattered And accumulated A few of the petals.",
+		"features": ["flower", "petals"]
+	},
+	"8": {
+		"sentence": "Only Mount Fuji Is left unburied By young leaves",
+		"features": ["Mount Fuji", "young leaves"]
+	}
+}

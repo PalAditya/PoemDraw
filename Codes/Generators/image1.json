@@ -1,0 +1,14 @@
+{
+	"mountain": {
+			"position": "left",
+			"size":"small"
+		},
+		"sky": {
+			"position": "natural",
+			"size":"natural"
+		},
+		"sea": {
+			"position": "natural",
+			"size":"natural"
+	}
+}

@@ -1,0 +1,34 @@
+{
+	"1": {
+		"sentence": "An old silent pond...A frog jumps into the pond,splash! Silence again",
+		"features": ["silent pond", "pond"]
+	},
+	"2": {
+		"sentence": "Autumn moonlight-a worm digs silently into the chestnut.",
+		"features": ["autumn moonlight", "chestnut"]
+	},
+	"3": {
+		"sentence": "In the twilight rain these brilliant-hued hibiscus - A lovely sunset.",
+		"features": ["twilight rain", "sunset"]
+	},
+	"4": {
+		"sentence": "All the day long-yet not long enough for the skylark,singing, singing.",
+		"features": []
+	},
+	"5": {
+		"sentence": "old pond.....a frog leaps in water's sound",
+		"features": ["pond"]
+	},
+	"6": {
+		"sentence": "As they begin to rise again Chrysanthemums faintly smell, After the flooding rain",
+		"features": ["flooding rain", "Chrysanthemums", "rise"]
+	},
+	"7": {
+		"sentence": "Awake at night--the sound of the water jar cracking in the cold",
+		"features": []
+	},
+	"8": {
+		"sentence": "Bitter–tasting ice — Just enough to wet the throat of a sewer rat.",
+		"features": ["ice"]
+	}
+}

@@ -1,0 +1,54 @@
+{
+	"1": {
+		"sentence": "Salt water splashing-Sea creatures play hide-and-seek in the deep blue sea.",
+		"features": ["sea", "blue sea"]
+	},
+	"2": {
+		"sentence": "Tree branch sways slowly As a child sings a sweet song Gracefully it goes.",
+		"features": ["tree brunch"]
+	},
+	"3": {
+		"sentence": "A great wide valley Birds flying freely and wild Over horizons.",
+		"features": ["wide valley", "birds flying freely"]
+	},
+	"4": {
+		"sentence": "Funny fluffy cloud Making faces in the sky Whoosh! It fades away",
+		"features": ["fluffy cloud"]
+	},
+	"5": {
+		"sentence": "Carefree raindrops drop Racing on my window panes Drip drop! They fall down.",
+		"features": ["raindrops"]
+	},
+	"6": {
+		"sentence": "A beautiful bird Feels free and proud in the sky Flies like an angel.",
+		"features": ["bird", "sky"]
+	},
+	"7": {
+		"sentence": "A bird fly so high Singing a melodic song What a peaceful day!",
+		"features": ["bird", "day"]
+	},
+	"8": {
+		"sentence": "Forest thick, sun shines, chirps in flight, squirrels chatter, cougar perch to pounce.",
+		"features": ["forest", "sun", "squirrels"]
+	},
+	"9": {
+		"sentence": "Aligning sun, moon, us, in line, sunlight obscured; daylight eclipsed.",
+		"features": ["sun","moon","sunlight","daylight"]
+	},
+	"10": {
+		"sentence": "Delightful display Snowdrops bow their pure white heads To the sun's glory.",
+		"features":	["snowdrops", "sun", "white heads"]
+	},
+	"11": {
+		"sentence": "Like crunchy cornflakes Gold leaves rustle underfoot Beauty in decay.",
+		"features": ["gold leaves"]
+	},
+	"12": {
+		"sentence": "Calm as a river Tranquility in my heart Blue summer skies reign.",
+		"features": ["river","blue summer skies"]
+	},
+	"13": {
+		"sentence": "Beautiful sunrise On a warm summer morning. I wait for day's start.",
+		"features": ["sunrise", "summer morning"]
+	}
+}

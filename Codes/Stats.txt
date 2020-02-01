@@ -1,0 +1,21 @@
+Accuracy on feature_recognition_2.json is: 0.8051
+Accuracy on feature_recognition_2_2.json is: 0.8059
+Accuracy on feature_recognition_2_3.json is: 0.8065
+Accuracy on feature_recognition_2_4.json is: 0.8039
+Accuracy on feature_recognition_2_5.json is: 0.8023
+
+Method2: Failure
+
+Accuracy on feature_recognition_2_2.json (scrambled) is: 1.0
+Accuracy on feature_recognition_2.json (scrambled) is: 1.0
+Accuracy on feature_recognition_2_3.json (scrambled) is: 1.0
+Accuracy on feature_recognition_2_4.json (scrambled) is: 1.0
+Accuracy on feature_recognition_2_5.json (scrambled) is: 1.0
+
+Accuracy on feature_recognition_2_5.json is: 0.806
+Accuracy on feature_recognition_2_5.json is: 0.0
+Accuracy on feature_recognition_2_5.json is: 0.0
+Accuracy on feature_recognition_2_5.json is: 0.15384615384615385
+Accuracy on feature_recognition_2_5.json is: 0.23076923076923078
+Accuracy on feature_recognition_2_5.json is: 0.3076923076923077
+Accuracy on feature_recognition_2_5.json is: 0.38461538461538464

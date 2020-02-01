@@ -17,7 +17,7 @@ This project relies heavily on the following projects, and borrows snippets from
 
 It is as below:
 
-![Architecture](results/Arch.PNG)
+![Architecture](https://user-images.githubusercontent.com/25523604/73596766-52aaa400-454b-11ea-9470-eaa96129d61d.PNG)
 
 - The first step is an RNN, which is meant to handle English from different times (mid-1600s to now)
 - A tokenizer built on top of TF-IDF, lemmatization and NER will find keywords.

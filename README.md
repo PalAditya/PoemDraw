@@ -40,3 +40,12 @@ Example JSON for sentence *"The mighty mountain lay to the west, beyond the sea"
 - The [GAUGAN](http://nvidia-research-mingyuliu.com/gaugan) tool encoding will be fetched
 - The TkInter script will generate a toy image mimicking the one on left panel of GauGAN
 - Selenium will complete the pipeline and download the image
+
+## Sample Usage
+
+First, install all dependencies via **pip install -r requirements.txt** . Also, go to [TextRazor](https://www.textrazor.com/) and get your API Key, which is to be substituted in **creds.json** in root folder. Then, migrate to *Codes* and execute the following:
+
+- With a small sentence: *echo YOUR_INPUT_SENTENCE | python tlm.py | python imGen.py && python NVDIA.py*
+- With a file/poem: *cat YOUR_INPUT_SENTENCE | python tlm.py | python imGen.py && python NVDIA.py*
+
+You can make any number of modifications, such as increasing the number of features you want to be recognized by migrating to *Codes/Generators/natureDescriptor.py* and editing the keywords list. You can increase the lemmatization length by editing *Codes/module1.py* and generate new data by running *Codes/Generators/datagen.py*. Scraping code for poem is available in *Codes/sonnetExtractor.py*

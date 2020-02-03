@@ -43,7 +43,7 @@ Example JSON for sentence *"The mighty mountain lay to the west, beyond the sea"
 
 ## Sample Usage
 
-First, install all dependencies via **pip install -r requirements.txt** . Also, go to [TextRazor](https://www.textrazor.com/) and get your API Key, which is to be substituted in **creds.json** in root folder. Then, migrate to *Codes* and execute the following:
+First, install all dependencies via **pip install -r requirements.txt** . You also need to install the version of chromedriver for your Chrome and place it in a folder named **drivers/** in root. Also, go to [TextRazor](https://www.textrazor.com/) and get your API Key, which is to be substituted in **creds.json** in root folder. Then, migrate to *Codes* and execute the following:
 
 - With a small sentence: *echo YOUR_INPUT_SENTENCE | python tlm.py | python imGen.py && python NVDIA.py*
 - With a file/poem: *cat YOUR_INPUT_SENTENCE | python tlm.py | python imGen.py && python NVDIA.py*

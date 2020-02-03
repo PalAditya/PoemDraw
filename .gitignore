@@ -8,3 +8,6 @@ drivers/
 **/*.zip
 .DS_store
 **/__py__*/**
+Codes/*.png
+Codes/*.PNG
+Codes/*.jpg

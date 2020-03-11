@@ -1,0 +1,58 @@
+{
+	"1": {
+		"sentence": "All the time I pray to Buddha I keep on killing mosquitoes.",
+		"features": {
+						"nature": [],
+						"animals": ["mosquitoes"],
+						"flowers": []
+					}
+	},
+	"2": {
+		"sentence": "Even with insects—some can sing, some can’t.",
+		"features": {
+						"nature": [],
+						"animals": ["insects"],
+						"flowers": []
+					}
+		},
+	"3": {
+		"sentence": "Goes out, comes back—the love life of a cat.",
+		"features": {
+						"nature": [],
+						"animals": ["cat"],
+						"flowers": []
+					}
+		},
+	"4": {
+		"sentence": "Mosquito at my ear—does he think I’m deaf?",
+		"features": {
+						"nature": [],
+						"animals": ["Mosquito"],
+						"flowers": []
+					}
+	},
+	"5": {
+		"sentence": "On a branch floating downriver a cricket, singing.",
+		"features": {
+						"nature": ["branch", "downriver"],
+						"animals": ["cricket"],
+						"flowers": []
+					}
+	},
+	"6": {
+		"sentence": "The snow is melting and the village is flooded with children.",
+		"features": {
+						"nature": ["snow", "flooded"],
+						"animals": ["children"],
+						"flowers": []
+					}
+	},
+	"7": {
+		"sentence": "Under the evening moon the snail is stripped to the waist.",
+		"features": {
+						"nature": ["evening moon"],
+						"animals": ["snail"],
+						"flowers": []
+					}
+	}
+}

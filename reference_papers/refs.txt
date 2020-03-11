@@ -1,0 +1,29 @@
+https://arxiv.org/pdf/1609.08144.pdf - Add for RNN
+
+Plan: Tell sir that you want to run inception score and prove that this is no worse
+than GauGAN and it all depends on first two phases.
+Tell him about the below accuracy model and have him approve it.
+
+A structured vs unstructured mode: Basically, create the secondary dataset where the context information is represented in a structural way.
+
+Ex: The tree was to my left and mountain was to my right.
+
+features: {
+"nature" : ["tree", "mountain"],
+"animal": [],
+"position": []
+}
+
+The accuracy of the parser is based on it successfully associating the tree object 
+with the left position and mountain with the right position.
+
+{
+	"mountain": {
+			"position": "right",
+			"size":"natural"
+		},
+		"tree": {
+			"position": "left",
+			"size":"natural"
+		}
+}

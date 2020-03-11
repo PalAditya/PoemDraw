@@ -10,7 +10,6 @@ def save_as_png(canvas, fileName):
 	img = Image.open(fileName + '.eps') 
 	img.save(fileName + '.png', 'png')
 
-
 master = Tk()
 
 w = Canvas(master, width=400, height=400)

@@ -1,0 +1,66 @@
+{
+	"1": {
+		"sentence": "An old silent pond...A frog jumps into the pond,splash! Silence again",
+		"features": {
+						"nature": ["silent pond", "silence"],
+						"animals": ["frog"],
+						"flowers": []
+					}
+	},
+	"2": {
+		"sentence": "Autumn moonlight-a worm digs silently into the chestnut.",
+		"features": {
+						"nature": ["autumn", "moonlight"],
+						"animals": ["worm"],
+						"flowers": []
+					}
+	},
+	"3": {
+		"sentence": "In the twilight rain these brilliant-hued hibiscus - A lovely sunset.",
+		"features": {
+						"nature": ["twilight", "rain", "twilight rain", "sunset"],
+						"animals": [],
+						"flowers": ["hibiscus"]
+					}
+	},
+	"4": {
+		"sentence": "All the day long-yet not long enough for the skylark,singing, singing.",
+		"features": {
+						"nature": [],
+						"animals": ["skylark"],
+						"flowers": []
+					}
+	},
+	"5": {
+		"sentence": "old pond.....a frog leaps in water's sound",
+		"features": {
+						"nature": ["old pond"],
+						"animals": ["frog"],
+						"flowers": []
+					}
+	},
+	"6": {
+		"sentence": "As they begin to rise again Chrysanthemums faintly smell, After the flooding rain",
+		"features": {
+						"nature": ["flooding rain"],
+						"animals": [],
+						"flowers": ["chrysanthemums"]
+					}		
+	},
+	"7": {
+		"sentence": "Awake at night--the sound of the water jar cracking in the cold",
+		"features": {
+						"nature": ["night", "cold"],
+						"animals": [],
+						"flowers": []
+					}	
+	},
+	"8": {
+		"sentence": "Bitter–tasting ice — Just enough to wet the throat of a sewer rat.",
+		"features": {
+						"nature": ["ice"],
+						"animals": ["sewer rat"],
+						"flowers": []
+					}
+	}
+}

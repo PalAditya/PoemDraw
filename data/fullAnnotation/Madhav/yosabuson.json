@@ -1,0 +1,66 @@
+{
+	"1": {
+		"sentence": "A summer river being crossed how pleasing with sandals in my hands!",
+		"features": {
+						"nature": ["river", "summer river"],
+						"animals": [],
+						"flowers": []
+					}
+	},
+	"2": {
+		"sentence": "Light of the moon Moves west, flowers' shadows Creep eastward.",
+		"features": {
+						"nature": ["moon"],
+						"animals": [],
+						"flowers": ["flowers shadows"]
+					}
+	},
+	"3": {
+		"sentence": "In the moonlight, The color and scent of the wisteria Seems far away.",
+		"features": {
+						"nature": ["moonlight", "wisteria"],
+						"animals": [],
+						"flowers": ["wisteria"]
+					}
+	},
+	"4": {
+		"sentence": "The fading of spring. The feeling of holding Of the biwa",
+		"features": {
+						"nature": ["spring"],
+						"animals": [],
+						"flowers": []
+					}
+	},
+	"5": {
+		"sentence": "The canola flowers. The moon in the east. The sun in the west",
+		"features": {
+						"nature": ["canola flowers", "moon", "sun"],
+						"animals": [],
+						"flowers": ["canola"]
+					}
+	},
+	"6": {
+		"sentence": "The afternoon shower. Catch the grass or leaf The villege spallow.",
+		"features": {
+						"nature": ["village"],
+						"animals": ["sparrow"],
+						"flowers": ["grass"]
+					}
+	},
+	"7": {
+		"sentence": "The peony flower scattered And accumulated A few of the petals.",
+		"features": {
+						"nature": [],
+						"animals": [],
+						"flowers": ["peony", "petals"]
+					}
+	},
+	"8": {
+		"sentence": "Only Mount Fuji Is left unburied By young leaves",
+		"features": {
+						"nature": ["mount fuji", "young leaves"],
+						"animals": [],
+						"flowers": ["young leaves"]
+					}
+	}
+}
